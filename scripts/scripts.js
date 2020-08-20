@@ -115,7 +115,7 @@ function logClick(character) {
 
 function addToDisplay(value) {
   // Add to value to display
-  if (display.textContent.includes("equation")) {
+  if (display.textContent.includes("equation") || display.textContent.includes("NaN")) {
     clearDisplay();
   }
 
