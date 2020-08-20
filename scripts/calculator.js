@@ -1,17 +1,17 @@
 function add(a, b) {
-  return a + b
+  return a + b;
 }
 
 function subtract(a, b) {
-  return a - b
+  return a - b;
 }
 
 function sum(numArray) {
   return (numArray.length < 1) ? 0 : numArray.reduce((num, sum) => sum += num);
 }
 
-function multiply(numArray) {
-  return numArray.reduce((num, sum) => sum *= num);
+function multiply(a, b) {
+  return a * b;
 }
 
 function divide(a, b) {
