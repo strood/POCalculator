@@ -1,6 +1,6 @@
 # Calculator Project
 Simple calculator app built for Project Odin.
-[LIVE DEMO](https://compassionate-hermann-08d087.netlify.app) - Try it out!
+[LIVE DEMO](https://tender-haibt-cec4a0.netlify.app/) - Try it out!
 
 ## Built Using
  - Javascript for interactivity
