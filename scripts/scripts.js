@@ -189,7 +189,7 @@ function checkValid(equation) {
 
 function combineNums(equation) {
   // operators and new equation
-  let operators = ["+","-","*","/","."];
+  let operators = ["+","-","*","/"];
   let shortEquation = [];
 
   // check each item to combine into short eq
